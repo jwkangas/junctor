@@ -12,4 +12,6 @@
 
 *Adjunct* is a more recent version used in the second paper and subsumes all features of *Junctor*.
 
+*DMscore* is a program for producing input score files for *Junctor* and *Adjunct* from data.
+
 See the readme files in the respective directories.
